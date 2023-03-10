@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartyChouette
-- 👀 I’m interested in ... C# and C++ Gameplay & Audio Programming
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... Gamedev,  Web apps & Cloud computing
+- 🌱 I’m currently learning ... azure & react
 - 💞️ I’m looking to collaborate on ...games or apps
 - 📫 How to reach me ... martychouette@gmail.com
 
