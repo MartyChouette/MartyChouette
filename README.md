@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MartyChouette
-- 👀 I’m interested in ... Gamedev,  Web apps & Cloud computing
-- 🌱 I’m currently learning ... azure & react
-- 💞️ I’m looking to collaborate on ...games or apps
+- 👋 Hi, I’m Marty Scott
+- 👀 I’m interested in Gamedev,  Web Apps & Productive Software
+- 🌱 I’m currently learning azure & react
+- 💞️ I’m looking to collaborate on games or apps
 - 📫 How to reach me ... martychouette@gmail.com
 
 <!---
