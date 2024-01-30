@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marty Scott
 - 👀 I’m interested in Gamedev,  Web Apps & Productive Software
-- 🌱 I’m currently learning azure & react
+- 🌱 I’m currently learning UE5 C++ & OpenGL
 - 💞️ I’m looking to collaborate on games or apps
 - 📫 How to reach me ... martychouette@gmail.com
 
